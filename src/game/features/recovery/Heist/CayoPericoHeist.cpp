@@ -98,10 +98,10 @@ namespace YimMenu::Features
                 Stats::SetInt("MPX_H4LOOT_WEED_C_SCOPED", 0);
                 Stats::SetInt("MPX_H4LOOT_PAINT", 127);
                 Stats::SetInt("MPX_H4LOOT_PAINT_SCOPED", 127);
-                Stats::SetInt("MPX_H4LOOT_CASH_V", 599431);
-                Stats::SetInt("MPX_H4LOOT_COKE_V", 1198863);
-                Stats::SetInt("MPX_H4LOOT_GOLD_V", 1598484);
-                Stats::SetInt("MPX_H4LOOT_PAINT_V", 1198863);
+                Stats::SetInt("MPX_H4LOOT_CASH_V", 199431);
+                Stats::SetInt("MPX_H4LOOT_COKE_V", 298863);
+                Stats::SetInt("MPX_H4LOOT_GOLD_V", 398484);
+                Stats::SetInt("MPX_H4LOOT_PAINT_V", 498863);
 				Stats::SetInt("MPX_H4LOOT_WEED_V", 0);
 				Stats::SetInt("MPX_H4_PROGRESS", _CayoPericoHeistDifficulty.GetState()); // Difficulty
                 Stats::SetInt("MPX_H4CNF_BS_GEN", 262143);
